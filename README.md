@@ -17,6 +17,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kekkodev&show_icons=true&locale=en&layout=compact" alt="kekkodev" /></p>
 
+<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kekkodev&show_icons=true&locale=en" alt="kekkodev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kekkodev&" alt="kekkodev" /></p>
