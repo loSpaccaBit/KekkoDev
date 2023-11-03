@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm loSpaccaBit</h1>
-<h3 align="center">Ciao, sono Francesco Pio Nocerino giovane studente programmatore impegnato nello sviluppo di console application</h3>
+<h3 align="center">Ciao, sono Francesco Pio Nocerino giovane studente programmatore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loSpaccaBit&label=Profile%20views&color=0e75b6&style=flat" alt="loSpaccaBit" /> </p>
 
