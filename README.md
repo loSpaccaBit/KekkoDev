@@ -23,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loSpaccaBit&show_icons=true&locale=en" alt="loSpaccaBit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loSpaccaBit&" alt="loSpaccaBit" /></p>
+<img src="https://github.com/loSpaccaBit/loSpaccaBit/assets/91205851/3369ac3a-0b7e-4d62-aa7c-e1e679f84bed)">
