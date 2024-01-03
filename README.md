@@ -20,7 +20,8 @@
   <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/TailwindCSS-%231a202c.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/:packageName">
+
 </p>
 <h2 align="center">Progetto in Corso: Il Mio Sito Web</h2>
 
