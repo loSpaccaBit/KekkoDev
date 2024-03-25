@@ -35,6 +35,8 @@
  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </p>
+<a href="https://app.daily.dev/lospaccabit"><img src="https://api.daily.dev/devcards/v2/gsznj3r1nh2g40qkFmVro.png?type=default&r=j0c" width="356" alt="Francesco Pio Nocerino's Dev Card"/></a>
+
 <h2 align="center">Progetto in Corso: Il Mio Sito Web</h2>
 
 <p align="center">
